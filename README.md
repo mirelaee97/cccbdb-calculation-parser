@@ -12,7 +12,7 @@ Pulls all calculation information from cccbdb.nist.gov for the specified chemica
 
 * Install script dependencies
 
-`python setup.py develop`
+`pip install .`
 
 * Run the script by supplying the following command line arguments
 
